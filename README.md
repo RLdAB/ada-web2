@@ -10,10 +10,10 @@ A API permite realizar operações CRUD completas (Create, Read, Update, Delete)
 
 ## 👥 Integrantes do Grupo
 
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Nome do Integrante 3]
-- [Nome do Integrante 4]
+- Vinícius Nunes de Bona
+- Roberto Luiz de Andrade Athaide 
+- Pedro Luiz Vidal Athayde
+- Matheus Gomes de Moura
 
 ---
 
